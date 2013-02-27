@@ -1,0 +1,1 @@
+Leak detector for Firefox scratchpad in chrome mode.
